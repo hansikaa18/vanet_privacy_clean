@@ -1,0 +1,202 @@
+[
+  {
+    "round": 1,
+    "your_accuracy": 0.5975,
+    "your_f1": 0.3177966101694915,
+    "flagged": 0,
+    "avg_trust": 0.56875,
+    "n_active": 80,
+    "round_avg_eps": 0.6748437498126248,
+    "cumulative_eps": 0.6748437498126248
+  },
+  {
+    "round": 2,
+    "your_accuracy": 0.6325,
+    "your_f1": 0.30660377358490565,
+    "flagged": 0,
+    "avg_trust": 0.6000000000000001,
+    "n_active": 80,
+    "round_avg_eps": 0.7252243122979538,
+    "cumulative_eps": 1.4000680621105785
+  },
+  {
+    "round": 3,
+    "your_accuracy": 0.68625,
+    "your_f1": 0.21806853582554517,
+    "flagged": 0,
+    "avg_trust": 0.6456250000000002,
+    "n_active": 80,
+    "round_avg_eps": 0.697843513569527,
+    "cumulative_eps": 2.0979115756801057
+  },
+  {
+    "round": 4,
+    "your_accuracy": 0.67125,
+    "your_f1": 0.23323615160349853,
+    "flagged": 0,
+    "avg_trust": 0.6843750000000001,
+    "n_active": 80,
+    "round_avg_eps": 0.810655283082957,
+    "cumulative_eps": 2.908566858763063
+  },
+  {
+    "round": 5,
+    "your_accuracy": 0.70125,
+    "your_f1": 0.1494661921708185,
+    "flagged": 0,
+    "avg_trust": 0.7375000000000002,
+    "n_active": 80,
+    "round_avg_eps": 0.82417446501494,
+    "cumulative_eps": 3.732741323778003
+  },
+  {
+    "round": 6,
+    "your_accuracy": 0.7,
+    "your_f1": 0.14285714285714285,
+    "flagged": 1,
+    "avg_trust": 0.7576250000000001,
+    "n_active": 80,
+    "round_avg_eps": 0.8812766145336692,
+    "cumulative_eps": 4.614017938311672
+  },
+  {
+    "round": 7,
+    "your_accuracy": 0.70625,
+    "your_f1": 0.11320754716981132,
+    "flagged": 0,
+    "avg_trust": 0.7968750000000002,
+    "n_active": 80,
+    "round_avg_eps": 0.8410985126764816,
+    "cumulative_eps": 5.455116450988154
+  },
+  {
+    "round": 8,
+    "your_accuracy": 0.73875,
+    "your_f1": 0.018779342723004695,
+    "flagged": 0,
+    "avg_trust": 0.8243750000000002,
+    "n_active": 80,
+    "round_avg_eps": 0.7902578879631295,
+    "cumulative_eps": 6.245374338951283
+  },
+  {
+    "round": 9,
+    "your_accuracy": 0.7075,
+    "your_f1": 0.10687022900763359,
+    "flagged": 0,
+    "avg_trust": 0.8512500000000003,
+    "n_active": 80,
+    "round_avg_eps": 0.7565762418986935,
+    "cumulative_eps": 7.001950580849977
+  },
+  {
+    "round": 10,
+    "your_accuracy": 0.72375,
+    "your_f1": 0.07531380753138076,
+    "flagged": 0,
+    "avg_trust": 0.8875000000000002,
+    "n_active": 80,
+    "round_avg_eps": 0.7184144633293826,
+    "cumulative_eps": 7.72036504417936
+  },
+  {
+    "round": 11,
+    "your_accuracy": 0.7325,
+    "your_f1": 0.02727272727272727,
+    "flagged": 3,
+    "avg_trust": 0.9278750000000002,
+    "n_active": 80,
+    "round_avg_eps": 0.6748233640330408,
+    "cumulative_eps": 8.3951884082124
+  },
+  {
+    "round": 12,
+    "your_accuracy": 0.7325,
+    "your_f1": 0.0,
+    "flagged": 0,
+    "avg_trust": 0.943125,
+    "n_active": 80,
+    "round_avg_eps": 0.7178130738928497,
+    "cumulative_eps": 9.11300148210525
+  },
+  {
+    "round": 13,
+    "your_accuracy": 0.72,
+    "your_f1": 0.042735042735042736,
+    "flagged": 6,
+    "avg_trust": 0.951375,
+    "n_active": 80,
+    "round_avg_eps": 0.6696120645645439,
+    "cumulative_eps": 9.782613546669795
+  },
+  {
+    "round": 14,
+    "your_accuracy": 0.7375,
+    "your_f1": 0.027777777777777776,
+    "flagged": 9,
+    "avg_trust": 0.9635000000000001,
+    "n_active": 80,
+    "round_avg_eps": 0.621634608867004,
+    "cumulative_eps": 10.404248155536798
+  },
+  {
+    "round": 15,
+    "your_accuracy": 0.74125,
+    "your_f1": 0.018957345971563982,
+    "flagged": 20,
+    "avg_trust": 0.959875,
+    "n_active": 80,
+    "round_avg_eps": 0.5719280622768413,
+    "cumulative_eps": 10.97617621781364
+  },
+  {
+    "round": 16,
+    "your_accuracy": 0.74,
+    "your_f1": 0.0,
+    "flagged": 43,
+    "avg_trust": 0.946375,
+    "n_active": 80,
+    "round_avg_eps": 0.5196300122659576,
+    "cumulative_eps": 11.495806230079598
+  },
+  {
+    "round": 17,
+    "your_accuracy": 0.70875,
+    "your_f1": 0.0933852140077821,
+    "flagged": 54,
+    "avg_trust": 0.9272500000000001,
+    "n_active": 80,
+    "round_avg_eps": 0.4716921726358553,
+    "cumulative_eps": 11.967498402715453
+  },
+  {
+    "round": 18,
+    "your_accuracy": 0.70875,
+    "your_f1": 0.0933852140077821,
+    "flagged": 63,
+    "avg_trust": 0.9106249999999999,
+    "n_active": 80,
+    "round_avg_eps": 0.42889702572402266,
+    "cumulative_eps": 12.396395428439476
+  },
+  {
+    "round": 19,
+    "your_accuracy": 0.70875,
+    "your_f1": 0.0933852140077821,
+    "flagged": 67,
+    "avg_trust": 0.8793749999999999,
+    "n_active": 80,
+    "round_avg_eps": 0.38832090502724426,
+    "cumulative_eps": 12.78471633346672
+  },
+  {
+    "round": 20,
+    "your_accuracy": 0.70875,
+    "your_f1": 0.0933852140077821,
+    "flagged": 68,
+    "avg_trust": 0.8543749999999999,
+    "n_active": 80,
+    "round_avg_eps": 0.3411117833919459,
+    "cumulative_eps": 13.125828116858667
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "DT-RBAC-FL-ADP": {
+    "accuracy": 0.984,
+    "f1": 0.9919354838709677,
+    "precision": 1.0,
+    "recall": 0.984
+  }
+}

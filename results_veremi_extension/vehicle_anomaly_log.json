@@ -1,0 +1,12165 @@
+[
+  {
+    "vid": "130635",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 19,
+    "flags": []
+  },
+  {
+    "vid": "130455",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 2,
+    "flags": []
+  },
+  {
+    "vid": "130557",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130407",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130401",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130371",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 10,
+    "flags": []
+  },
+  {
+    "vid": "130269",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130617",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130197",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130137",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130245",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130317",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130575",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130335",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 7,
+    "flags": []
+  },
+  {
+    "vid": "130677",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130161",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130593",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 8,
+    "flags": []
+  },
+  {
+    "vid": "130599",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130209",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130323",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130467",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130665",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130293",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130389",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130551",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 15,
+    "flags": []
+  },
+  {
+    "vid": "130227",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130377",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130713",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 7,
+    "flags": []
+  },
+  {
+    "vid": "130191",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130569",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130203",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130419",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130647",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130305",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130695",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 16,
+    "flags": []
+  },
+  {
+    "vid": "130167",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130533",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 17,
+    "flags": []
+  },
+  {
+    "vid": "130527",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130347",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130233",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 9,
+    "flags": []
+  },
+  {
+    "vid": "130431",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 18,
+    "flags": []
+  },
+  {
+    "vid": "130341",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130179",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130707",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130299",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130251",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 19,
+    "flags": []
+  },
+  {
+    "vid": "130623",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130287",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130509",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130215",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 8,
+    "flags": []
+  },
+  {
+    "vid": "130281",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130155",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 17,
+    "flags": []
+  },
+  {
+    "vid": "130239",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130365",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130185",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130605",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130173",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 15,
+    "flags": []
+  },
+  {
+    "vid": "130521",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130353",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130671",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130473",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 5,
+    "flags": []
+  },
+  {
+    "vid": "130731",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130461",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130395",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 3,
+    "flags": []
+  },
+  {
+    "vid": "130437",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130539",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130413",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 12,
+    "flags": []
+  },
+  {
+    "vid": "130545",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130503",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130719",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130611",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 9,
+    "flags": []
+  },
+  {
+    "vid": "130383",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130485",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130425",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130725",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130479",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130587",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130329",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130701",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130491",
+    "round": 1,
+    "flagged": false,
+    "attack_type": 13,
+    "flags": []
+  },
+  {
+    "vid": "130629",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130683",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130485",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130671",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130347",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130269",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130725",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130323",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130593",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 8,
+    "flags": []
+  },
+  {
+    "vid": "130491",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 13,
+    "flags": []
+  },
+  {
+    "vid": "130431",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 18,
+    "flags": []
+  },
+  {
+    "vid": "130221",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130707",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130413",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 12,
+    "flags": []
+  },
+  {
+    "vid": "130677",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130311",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 16,
+    "flags": []
+  },
+  {
+    "vid": "130581",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130449",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130365",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130299",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130197",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130203",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130359",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130389",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130185",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130341",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130569",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130455",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 2,
+    "flags": []
+  },
+  {
+    "vid": "130179",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130209",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130281",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130467",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130173",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 15,
+    "flags": []
+  },
+  {
+    "vid": "130245",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130611",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 9,
+    "flags": []
+  },
+  {
+    "vid": "130719",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130713",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 7,
+    "flags": []
+  },
+  {
+    "vid": "130641",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130239",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130689",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130251",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 19,
+    "flags": []
+  },
+  {
+    "vid": "130557",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130263",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130539",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130287",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130215",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 8,
+    "flags": []
+  },
+  {
+    "vid": "130533",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 17,
+    "flags": []
+  },
+  {
+    "vid": "130257",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130437",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130353",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130317",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130497",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130695",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 16,
+    "flags": []
+  },
+  {
+    "vid": "130377",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130587",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130551",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 15,
+    "flags": []
+  },
+  {
+    "vid": "130335",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 7,
+    "flags": []
+  },
+  {
+    "vid": "130575",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130305",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130521",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130563",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130503",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130461",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130515",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 4,
+    "flags": []
+  },
+  {
+    "vid": "130395",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 3,
+    "flags": []
+  },
+  {
+    "vid": "130191",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130401",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130509",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130233",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 9,
+    "flags": []
+  },
+  {
+    "vid": "130647",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130383",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130143",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130635",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 19,
+    "flags": []
+  },
+  {
+    "vid": "130227",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130479",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130659",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130545",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130665",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130419",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130617",
+    "round": 2,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130311",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 16,
+    "flags": []
+  },
+  {
+    "vid": "130473",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 5,
+    "flags": []
+  },
+  {
+    "vid": "130641",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130509",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130275",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 11,
+    "flags": []
+  },
+  {
+    "vid": "130503",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130371",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 10,
+    "flags": []
+  },
+  {
+    "vid": "130533",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 17,
+    "flags": []
+  },
+  {
+    "vid": "130251",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 19,
+    "flags": []
+  },
+  {
+    "vid": "130203",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130485",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130365",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130329",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130545",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130587",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130401",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130671",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130347",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130245",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130611",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 9,
+    "flags": []
+  },
+  {
+    "vid": "130605",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130629",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130215",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 8,
+    "flags": []
+  },
+  {
+    "vid": "130155",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 17,
+    "flags": []
+  },
+  {
+    "vid": "130137",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130701",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130635",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 19,
+    "flags": []
+  },
+  {
+    "vid": "130197",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130221",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130623",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130341",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130581",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130683",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130323",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130719",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130299",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130143",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130551",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 15,
+    "flags": []
+  },
+  {
+    "vid": "130557",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130173",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 15,
+    "flags": []
+  },
+  {
+    "vid": "130269",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130461",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130377",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130497",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130653",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 11,
+    "flags": []
+  },
+  {
+    "vid": "130539",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130599",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130431",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 18,
+    "flags": []
+  },
+  {
+    "vid": "130659",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130731",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130575",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130161",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130191",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130617",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130359",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130335",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 7,
+    "flags": []
+  },
+  {
+    "vid": "130515",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 4,
+    "flags": []
+  },
+  {
+    "vid": "130305",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130257",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130281",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130725",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130419",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130293",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130353",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130287",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130413",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 12,
+    "flags": []
+  },
+  {
+    "vid": "130665",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130317",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130695",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 16,
+    "flags": []
+  },
+  {
+    "vid": "130239",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130437",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130689",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130383",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130449",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130593",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 8,
+    "flags": []
+  },
+  {
+    "vid": "130179",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130677",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130395",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 3,
+    "flags": []
+  },
+  {
+    "vid": "130233",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 9,
+    "flags": []
+  },
+  {
+    "vid": "130521",
+    "round": 3,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130407",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130359",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130311",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 16,
+    "flags": []
+  },
+  {
+    "vid": "130137",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130467",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130365",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130497",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130173",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 15,
+    "flags": []
+  },
+  {
+    "vid": "130185",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130671",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130551",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 15,
+    "flags": []
+  },
+  {
+    "vid": "130461",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130527",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130191",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130677",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130215",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 8,
+    "flags": []
+  },
+  {
+    "vid": "130539",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130545",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130257",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130659",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130623",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130353",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130509",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130689",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130725",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130179",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130707",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130377",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130371",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 10,
+    "flags": []
+  },
+  {
+    "vid": "130635",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 19,
+    "flags": []
+  },
+  {
+    "vid": "130449",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130203",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130653",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 11,
+    "flags": []
+  },
+  {
+    "vid": "130167",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130731",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130455",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 2,
+    "flags": []
+  },
+  {
+    "vid": "130437",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130323",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130569",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130425",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130557",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130575",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130347",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130515",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 4,
+    "flags": []
+  },
+  {
+    "vid": "130473",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 5,
+    "flags": []
+  },
+  {
+    "vid": "130719",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130275",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 11,
+    "flags": []
+  },
+  {
+    "vid": "130293",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130485",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130629",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130221",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130227",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130239",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130281",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130269",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130197",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130431",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 18,
+    "flags": []
+  },
+  {
+    "vid": "130143",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130479",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130395",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 3,
+    "flags": []
+  },
+  {
+    "vid": "130401",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130593",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 8,
+    "flags": []
+  },
+  {
+    "vid": "130503",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130605",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130683",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130389",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130251",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 19,
+    "flags": []
+  },
+  {
+    "vid": "130317",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130641",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130563",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130341",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130305",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130647",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130209",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130329",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130587",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130695",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 16,
+    "flags": []
+  },
+  {
+    "vid": "130491",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 13,
+    "flags": []
+  },
+  {
+    "vid": "130155",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 17,
+    "flags": []
+  },
+  {
+    "vid": "130617",
+    "round": 4,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130731",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130269",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130353",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130311",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 16,
+    "flags": []
+  },
+  {
+    "vid": "130371",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 10,
+    "flags": []
+  },
+  {
+    "vid": "130257",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130227",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130347",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130623",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130293",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130569",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130449",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130389",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130191",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130527",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130431",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 18,
+    "flags": []
+  },
+  {
+    "vid": "130365",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130401",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130509",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130443",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130605",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130323",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130221",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130539",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130713",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 7,
+    "flags": []
+  },
+  {
+    "vid": "130233",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 9,
+    "flags": []
+  },
+  {
+    "vid": "130725",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130173",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 15,
+    "flags": []
+  },
+  {
+    "vid": "130617",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130203",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130497",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130167",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130629",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130245",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130641",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130185",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130419",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130533",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 17,
+    "flags": []
+  },
+  {
+    "vid": "130137",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130593",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 8,
+    "flags": []
+  },
+  {
+    "vid": "130407",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130563",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130581",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130209",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130149",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130395",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 3,
+    "flags": []
+  },
+  {
+    "vid": "130647",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130719",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130473",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 5,
+    "flags": []
+  },
+  {
+    "vid": "130677",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130161",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130485",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130215",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 8,
+    "flags": []
+  },
+  {
+    "vid": "130557",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130263",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130521",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130281",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130155",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 17,
+    "flags": []
+  },
+  {
+    "vid": "130305",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130437",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130335",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 7,
+    "flags": []
+  },
+  {
+    "vid": "130275",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 11,
+    "flags": []
+  },
+  {
+    "vid": "130425",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130383",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130251",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 19,
+    "flags": []
+  },
+  {
+    "vid": "130317",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130671",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130491",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 13,
+    "flags": []
+  },
+  {
+    "vid": "130689",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130329",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130695",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 16,
+    "flags": []
+  },
+  {
+    "vid": "130143",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130287",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130659",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130599",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130467",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130707",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130665",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130461",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130635",
+    "round": 5,
+    "flagged": false,
+    "attack_type": 19,
+    "flags": []
+  },
+  {
+    "vid": "130215",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 8,
+    "flags": []
+  },
+  {
+    "vid": "130257",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130521",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130353",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130479",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130263",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130473",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 5,
+    "flags": []
+  },
+  {
+    "vid": "130569",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130137",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130731",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130245",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130629",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130161",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130545",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130149",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130413",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 12,
+    "flags": []
+  },
+  {
+    "vid": "130317",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130197",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130437",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130557",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130347",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130341",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130239",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130611",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 9,
+    "flags": []
+  },
+  {
+    "vid": "130455",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 2,
+    "flags": []
+  },
+  {
+    "vid": "130419",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130677",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130221",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130563",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130329",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130179",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130671",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130503",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130719",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130605",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130617",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130449",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130551",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 15,
+    "flags": []
+  },
+  {
+    "vid": "130281",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130725",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130155",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 17,
+    "flags": []
+  },
+  {
+    "vid": "130305",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130359",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130467",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130443",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130167",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130299",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130461",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130323",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130539",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130533",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 17,
+    "flags": []
+  },
+  {
+    "vid": "130581",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130335",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 7,
+    "flags": []
+  },
+  {
+    "vid": "130143",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130425",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130209",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130497",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130593",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 8,
+    "flags": []
+  },
+  {
+    "vid": "130365",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130641",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130401",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130599",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130251",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 19,
+    "flags": []
+  },
+  {
+    "vid": "130173",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 15,
+    "flags": []
+  },
+  {
+    "vid": "130635",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 19,
+    "flags": []
+  },
+  {
+    "vid": "130623",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130287",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130659",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130509",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130383",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130203",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130707",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130683",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130491",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 13,
+    "flags": []
+  },
+  {
+    "vid": "130485",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130653",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 11,
+    "flags": []
+  },
+  {
+    "vid": "130191",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130275",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 11,
+    "flags": []
+  },
+  {
+    "vid": "130233",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 9,
+    "flags": []
+  },
+  {
+    "vid": "130689",
+    "round": 6,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130287",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130455",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 2,
+    "flags": []
+  },
+  {
+    "vid": "130239",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130329",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130599",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130635",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 19,
+    "flags": []
+  },
+  {
+    "vid": "130407",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130263",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130491",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 13,
+    "flags": []
+  },
+  {
+    "vid": "130575",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130173",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 15,
+    "flags": []
+  },
+  {
+    "vid": "130629",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130641",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130359",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130437",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130581",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130155",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 17,
+    "flags": []
+  },
+  {
+    "vid": "130197",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130659",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130323",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130623",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130545",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130143",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130647",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130353",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130551",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 15,
+    "flags": []
+  },
+  {
+    "vid": "130257",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130191",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130695",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 16,
+    "flags": []
+  },
+  {
+    "vid": "130503",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130209",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130395",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 3,
+    "flags": []
+  },
+  {
+    "vid": "130203",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130509",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130167",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130215",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 8,
+    "flags": []
+  },
+  {
+    "vid": "130293",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130671",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130473",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 5,
+    "flags": []
+  },
+  {
+    "vid": "130419",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130719",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130251",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 19,
+    "flags": []
+  },
+  {
+    "vid": "130479",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130443",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130683",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130383",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130413",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 12,
+    "flags": []
+  },
+  {
+    "vid": "130527",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130431",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 18,
+    "flags": []
+  },
+  {
+    "vid": "130467",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130497",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130341",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130347",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130557",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130305",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130227",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130587",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130269",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130425",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130299",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130665",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130371",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 10,
+    "flags": []
+  },
+  {
+    "vid": "130161",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130569",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130137",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130311",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 16,
+    "flags": []
+  },
+  {
+    "vid": "130221",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130677",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130377",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130149",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130731",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130317",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130449",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130281",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130701",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130689",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130233",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 9,
+    "flags": []
+  },
+  {
+    "vid": "130611",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 9,
+    "flags": []
+  },
+  {
+    "vid": "130539",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130707",
+    "round": 7,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130161",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130635",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 19,
+    "flags": []
+  },
+  {
+    "vid": "130647",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130509",
+    "round": 8,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130215",
+    "round": 8,
+    "flagged": true,
+    "attack_type": 8,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130233",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 9,
+    "flags": []
+  },
+  {
+    "vid": "130497",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130713",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 7,
+    "flags": []
+  },
+  {
+    "vid": "130641",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130467",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130143",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130179",
+    "round": 8,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130683",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130389",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130425",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130353",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130629",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130395",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 3,
+    "flags": []
+  },
+  {
+    "vid": "130599",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130461",
+    "round": 8,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130401",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130275",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 11,
+    "flags": []
+  },
+  {
+    "vid": "130185",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130305",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130695",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 16,
+    "flags": []
+  },
+  {
+    "vid": "130689",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130533",
+    "round": 8,
+    "flagged": true,
+    "attack_type": 17,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130671",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130329",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130521",
+    "round": 8,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130191",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130569",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130485",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130611",
+    "round": 8,
+    "flagged": true,
+    "attack_type": 9,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130311",
+    "round": 8,
+    "flagged": true,
+    "attack_type": 16,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130359",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130209",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130665",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130263",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130377",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130371",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 10,
+    "flags": []
+  },
+  {
+    "vid": "130197",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130539",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130323",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130287",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130221",
+    "round": 8,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130623",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130257",
+    "round": 8,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130455",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 2,
+    "flags": []
+  },
+  {
+    "vid": "130659",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130251",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 19,
+    "flags": []
+  },
+  {
+    "vid": "130725",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130653",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 11,
+    "flags": []
+  },
+  {
+    "vid": "130479",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130281",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130245",
+    "round": 8,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130437",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130503",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130365",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130449",
+    "round": 8,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130575",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130203",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130173",
+    "round": 8,
+    "flagged": true,
+    "attack_type": 15,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130707",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130137",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130593",
+    "round": 8,
+    "flagged": true,
+    "attack_type": 8,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130269",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130239",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130701",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130551",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 15,
+    "flags": []
+  },
+  {
+    "vid": "130299",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130317",
+    "round": 8,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130515",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 4,
+    "flags": []
+  },
+  {
+    "vid": "130419",
+    "round": 8,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130527",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130563",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130413",
+    "round": 8,
+    "flagged": true,
+    "attack_type": 12,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130341",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130227",
+    "round": 8,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130473",
+    "round": 8,
+    "flagged": false,
+    "attack_type": 5,
+    "flags": []
+  },
+  {
+    "vid": "130209",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130473",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 5,
+    "flags": []
+  },
+  {
+    "vid": "130713",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 7,
+    "flags": []
+  },
+  {
+    "vid": "130605",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130221",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130689",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130395",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 3,
+    "flags": []
+  },
+  {
+    "vid": "130359",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130575",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130617",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130641",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130269",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130263",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130449",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130455",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 2,
+    "flags": []
+  },
+  {
+    "vid": "130671",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130137",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130233",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 9,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130191",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 6,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130305",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130281",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130167",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130659",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130413",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 12,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130185",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130509",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130251",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 19,
+    "flags": []
+  },
+  {
+    "vid": "130563",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130719",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130461",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130569",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130527",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130497",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130377",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130329",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130539",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130707",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130599",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130653",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 11,
+    "flags": []
+  },
+  {
+    "vid": "130299",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130293",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 14,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130425",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130335",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 7,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130419",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130581",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130401",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130683",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130521",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130161",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130635",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 19,
+    "flags": []
+  },
+  {
+    "vid": "130257",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130665",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130371",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 10,
+    "flags": []
+  },
+  {
+    "vid": "130695",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 16,
+    "flags": []
+  },
+  {
+    "vid": "130647",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130347",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130323",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130173",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 15,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130701",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130287",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130311",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 16,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130551",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 15,
+    "flags": []
+  },
+  {
+    "vid": "130407",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130731",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130491",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 13,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130389",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130545",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130203",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130317",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130365",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130443",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130383",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130341",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130677",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130725",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130485",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130557",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130533",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 17,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130239",
+    "round": 9,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130197",
+    "round": 9,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130161",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130545",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130317",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130653",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 11,
+    "flags": []
+  },
+  {
+    "vid": "130377",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130635",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 19,
+    "flags": []
+  },
+  {
+    "vid": "130341",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130137",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130407",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130569",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130251",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 19,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130587",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130671",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130701",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130605",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130659",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130221",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130299",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130287",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130389",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130485",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130245",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130725",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130629",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130173",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 15,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130641",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130209",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130665",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130467",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130461",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130455",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 2,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130695",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 16,
+    "flags": []
+  },
+  {
+    "vid": "130479",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130443",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130611",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 9,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130491",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 13,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130647",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130275",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 11,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130623",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130719",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130557",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130677",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130149",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130425",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130503",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130689",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130413",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 12,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130515",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 4,
+    "flags": []
+  },
+  {
+    "vid": "130497",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130617",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130539",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130449",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130527",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130203",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130551",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 15,
+    "flags": []
+  },
+  {
+    "vid": "130323",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130185",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130707",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130395",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 3,
+    "flags": []
+  },
+  {
+    "vid": "130437",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130533",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 17,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130371",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 10,
+    "flags": []
+  },
+  {
+    "vid": "130239",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130263",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130473",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 5,
+    "flags": []
+  },
+  {
+    "vid": "130305",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130593",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 8,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130215",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 8,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130233",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 9,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130167",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130281",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130269",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130359",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130227",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130401",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130581",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130197",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130257",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130353",
+    "round": 10,
+    "flagged": true,
+    "attack_type": 1,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130713",
+    "round": 10,
+    "flagged": false,
+    "attack_type": 7,
+    "flags": []
+  },
+  {
+    "vid": "130329",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130137",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130215",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 8,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130227",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130317",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130635",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 19,
+    "flags": []
+  },
+  {
+    "vid": "130185",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130611",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 9,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130695",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 16,
+    "flags": []
+  },
+  {
+    "vid": "130659",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130203",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130389",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130617",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130311",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 16,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130353",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 1,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130641",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130413",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 12,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130455",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 2,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130167",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130647",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130347",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130581",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130239",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130257",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130683",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130281",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130365",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130335",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 7,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130437",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130179",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130533",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 17,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130623",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130545",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130263",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130485",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130149",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130575",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 6,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130251",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 19,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130443",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130653",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 11,
+    "flags": []
+  },
+  {
+    "vid": "130161",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130305",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130629",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130233",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 9,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130407",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130701",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130515",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 4,
+    "flags": []
+  },
+  {
+    "vid": "130599",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130377",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130539",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130731",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 1,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130527",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130341",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130245",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130395",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 3,
+    "flags": []
+  },
+  {
+    "vid": "130491",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 13,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130719",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130521",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130143",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130371",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 10,
+    "flags": []
+  },
+  {
+    "vid": "130593",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 8,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130275",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 11,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130707",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130725",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130509",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130269",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130467",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130197",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130383",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130425",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130209",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130605",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130569",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130221",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130503",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130287",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130461",
+    "round": 11,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130191",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 6,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130293",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 14,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130299",
+    "round": 11,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130443",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130539",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130251",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 19,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130257",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130191",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 6,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130287",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130311",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 16,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130497",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130137",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130233",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 9,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130551",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 15,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130467",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130401",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130515",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 4,
+    "flags": []
+  },
+  {
+    "vid": "130587",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130509",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130281",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130347",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130449",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130473",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 5,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130713",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 7,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130521",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130329",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130197",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130593",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 8,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130215",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 8,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130623",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130149",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130635",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 19,
+    "flags": []
+  },
+  {
+    "vid": "130431",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 18,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130167",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130563",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130227",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130185",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130371",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 10,
+    "flags": []
+  },
+  {
+    "vid": "130479",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130689",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130527",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130437",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130269",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130611",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 9,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130161",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130377",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130569",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130179",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130461",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130305",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130413",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 12,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130353",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 1,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130617",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130389",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130221",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130383",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130239",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130731",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 1,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130245",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130263",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130695",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 16,
+    "flags": []
+  },
+  {
+    "vid": "130275",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 11,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130323",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130641",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130485",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130155",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 17,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130491",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 13,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130407",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130575",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130581",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130503",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130545",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130653",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 11,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130425",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130359",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130173",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 15,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130629",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130605",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130395",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 3,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130419",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130335",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 7,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130701",
+    "round": 12,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130683",
+    "round": 12,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130629",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130335",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 7,
+    "flags": []
+  },
+  {
+    "vid": "130233",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 9,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130437",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130659",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130419",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130407",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130305",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130599",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130245",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130575",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130647",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130563",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130341",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130641",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130173",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 15,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130317",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130545",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130185",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130347",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130461",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130677",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130275",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 11,
+    "flags": []
+  },
+  {
+    "vid": "130557",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130365",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130497",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130683",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130203",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130509",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130293",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 14,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130137",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130371",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 10,
+    "flags": []
+  },
+  {
+    "vid": "130521",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130239",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130485",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130539",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130215",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 8,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130311",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 16,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130167",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130443",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130221",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130623",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130389",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130377",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130467",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130731",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 1,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130707",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130449",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130473",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 5,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130431",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 18,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130515",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 4,
+    "flags": []
+  },
+  {
+    "vid": "130635",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 19,
+    "flags": []
+  },
+  {
+    "vid": "130179",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130209",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130425",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130191",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 6,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130479",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130257",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130263",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130593",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 8,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130503",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130671",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 14,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130713",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 7,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130491",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 13,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130269",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130197",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130149",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130329",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130359",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130611",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 9,
+    "flags": []
+  },
+  {
+    "vid": "130725",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130323",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130527",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130701",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130383",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130689",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130287",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130353",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 1,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130155",
+    "round": 13,
+    "flagged": true,
+    "attack_type": 17,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130605",
+    "round": 13,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130545",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130143",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130509",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130701",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130479",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130287",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130155",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 17,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130149",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130605",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130209",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130539",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130695",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 16,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130707",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130443",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130719",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130227",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130581",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130575",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130353",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130533",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 17,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130713",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 7,
+    "flags": []
+  },
+  {
+    "vid": "130185",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130377",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130371",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 10,
+    "flags": []
+  },
+  {
+    "vid": "130617",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130419",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130677",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130515",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 4,
+    "flags": []
+  },
+  {
+    "vid": "130521",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130659",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130293",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 14,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130233",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 9,
+    "flags": []
+  },
+  {
+    "vid": "130323",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130689",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130623",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130461",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130395",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 3,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130245",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130257",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130551",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 15,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130407",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130563",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130473",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 5,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130503",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130425",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130269",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130299",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130497",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130491",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 13,
+    "flags": []
+  },
+  {
+    "vid": "130629",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130641",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130731",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 1,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130347",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130587",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130653",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 11,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130413",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 12,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130341",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130527",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130365",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130665",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130191",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130335",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 7,
+    "flags": []
+  },
+  {
+    "vid": "130467",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130173",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 15,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130401",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130167",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130449",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130251",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 19,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130197",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130455",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 2,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130221",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130275",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 11,
+    "flags": []
+  },
+  {
+    "vid": "130203",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130179",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130725",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130569",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130317",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130383",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130683",
+    "round": 14,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130239",
+    "round": 14,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130413",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 12,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130551",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 15,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130251",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 19,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130203",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130305",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130677",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130461",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130485",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130647",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130575",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130593",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 8,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130179",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130611",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 9,
+    "flags": []
+  },
+  {
+    "vid": "130221",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130449",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130539",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130365",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130359",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130341",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130215",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 8,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130725",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130581",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130521",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130527",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130185",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130503",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130167",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130623",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130275",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 11,
+    "flags": []
+  },
+  {
+    "vid": "130569",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130491",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 13,
+    "flags": []
+  },
+  {
+    "vid": "130671",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 14,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130689",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130473",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 5,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130545",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130497",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130191",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130437",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130701",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130329",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130401",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130605",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130155",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 17,
+    "flags": []
+  },
+  {
+    "vid": "130335",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 7,
+    "flags": []
+  },
+  {
+    "vid": "130683",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130515",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 4,
+    "flags": []
+  },
+  {
+    "vid": "130233",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 9,
+    "flags": []
+  },
+  {
+    "vid": "130371",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 10,
+    "flags": []
+  },
+  {
+    "vid": "130287",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130353",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130149",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130137",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130299",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130557",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130383",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130443",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130209",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130653",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 11,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130713",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 7,
+    "flags": []
+  },
+  {
+    "vid": "130695",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 16,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130395",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 3,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130719",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130635",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 19,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130419",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130707",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130617",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130731",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 1,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130599",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130455",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 2,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130161",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130509",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130143",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130257",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130347",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130377",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130389",
+    "round": 15,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130293",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130479",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130629",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130563",
+    "round": 15,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130701",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130329",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130671",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 14,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130137",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130629",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130359",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130227",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130233",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 9,
+    "flags": []
+  },
+  {
+    "vid": "130479",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130473",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 5,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130683",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130587",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly",
+      "budget_anomaly"
+    ]
+  },
+  {
+    "vid": "130521",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130383",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130455",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 2,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130539",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130617",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130377",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130413",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 12,
+    "flags": []
+  },
+  {
+    "vid": "130353",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130719",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130197",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130281",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130491",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 13,
+    "flags": []
+  },
+  {
+    "vid": "130419",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130143",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130215",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 8,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130425",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130335",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 7,
+    "flags": []
+  },
+  {
+    "vid": "130185",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130581",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130725",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130269",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130251",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 19,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130341",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130161",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130635",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 19,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130437",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130557",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130563",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130443",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130731",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130191",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130323",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130371",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 10,
+    "flags": []
+  },
+  {
+    "vid": "130575",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130509",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130347",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130257",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130689",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130179",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130401",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130173",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 15,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130695",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 16,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130605",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130299",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130449",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130209",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130551",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 15,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130305",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130713",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 7,
+    "flags": []
+  },
+  {
+    "vid": "130503",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130707",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130515",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 4,
+    "flags": []
+  },
+  {
+    "vid": "130533",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 17,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130461",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130239",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130155",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 17,
+    "flags": []
+  },
+  {
+    "vid": "130647",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130203",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130389",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130623",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130593",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 8,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130149",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130263",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130431",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 18,
+    "flags": [
+      "norm_anomaly",
+      "budget_anomaly"
+    ]
+  },
+  {
+    "vid": "130293",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130167",
+    "round": 16,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130641",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130677",
+    "round": 16,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130371",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 10,
+    "flags": []
+  },
+  {
+    "vid": "130191",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130647",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130305",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130227",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130515",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 4,
+    "flags": []
+  },
+  {
+    "vid": "130389",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130311",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 16,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130263",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130179",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130617",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130239",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130695",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 16,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130551",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 15,
+    "flags": []
+  },
+  {
+    "vid": "130245",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130545",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130401",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130377",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130143",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130347",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130233",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 9,
+    "flags": []
+  },
+  {
+    "vid": "130527",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130419",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130641",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130671",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 14,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130167",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130629",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130329",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130485",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130665",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130677",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130299",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130413",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 12,
+    "flags": []
+  },
+  {
+    "vid": "130317",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130203",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130257",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130281",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130701",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130461",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130521",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130455",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 2,
+    "flags": []
+  },
+  {
+    "vid": "130473",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 5,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130563",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130575",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130497",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130479",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130365",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130539",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130353",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130653",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 11,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130581",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130425",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130293",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130731",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130707",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130155",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 17,
+    "flags": []
+  },
+  {
+    "vid": "130491",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 13,
+    "flags": []
+  },
+  {
+    "vid": "130503",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130269",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130599",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130215",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 8,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130275",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 11,
+    "flags": []
+  },
+  {
+    "vid": "130185",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130557",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130197",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130443",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130467",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130161",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130221",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130509",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130725",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130437",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130149",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130251",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 19,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130611",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 9,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130407",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130623",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130341",
+    "round": 17,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130209",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130569",
+    "round": 17,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130293",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130269",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130431",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 18,
+    "flags": [
+      "norm_anomaly",
+      "budget_anomaly"
+    ]
+  },
+  {
+    "vid": "130647",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130275",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 11,
+    "flags": []
+  },
+  {
+    "vid": "130329",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130443",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130245",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130323",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130521",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130167",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130383",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130377",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130287",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130473",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 5,
+    "flags": []
+  },
+  {
+    "vid": "130659",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130179",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130653",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 11,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130227",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130629",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130599",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130593",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 8,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130635",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 19,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130353",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130143",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130341",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130527",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130317",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130185",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130491",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 13,
+    "flags": []
+  },
+  {
+    "vid": "130425",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130281",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130581",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130503",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130239",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130311",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 16,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130299",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130707",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130479",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130389",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130545",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130155",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 17,
+    "flags": []
+  },
+  {
+    "vid": "130215",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 8,
+    "flags": []
+  },
+  {
+    "vid": "130641",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130257",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130407",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130719",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130359",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130401",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130605",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130731",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130437",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130461",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130563",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130221",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130683",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130713",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 7,
+    "flags": []
+  },
+  {
+    "vid": "130485",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130467",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130347",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130575",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130701",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130665",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130533",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 17,
+    "flags": [
+      "norm_anomaly",
+      "budget_anomaly"
+    ]
+  },
+  {
+    "vid": "130551",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 15,
+    "flags": []
+  },
+  {
+    "vid": "130209",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130671",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130449",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130623",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130233",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 9,
+    "flags": []
+  },
+  {
+    "vid": "130305",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130557",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130149",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130263",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130191",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130161",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130611",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 9,
+    "flags": []
+  },
+  {
+    "vid": "130173",
+    "round": 18,
+    "flagged": true,
+    "attack_type": 15,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130197",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130455",
+    "round": 18,
+    "flagged": false,
+    "attack_type": 2,
+    "flags": []
+  },
+  {
+    "vid": "130599",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130257",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130605",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130317",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130653",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 11,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130191",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130539",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130365",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130545",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130293",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130239",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130335",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 7,
+    "flags": []
+  },
+  {
+    "vid": "130581",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130371",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 10,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130725",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130305",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130395",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 3,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130155",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 17,
+    "flags": []
+  },
+  {
+    "vid": "130551",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 15,
+    "flags": []
+  },
+  {
+    "vid": "130401",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130665",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130173",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 15,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130659",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130623",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130275",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 11,
+    "flags": []
+  },
+  {
+    "vid": "130209",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130221",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130629",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130233",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 9,
+    "flags": []
+  },
+  {
+    "vid": "130377",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130245",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130467",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130563",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130587",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly",
+      "budget_anomaly"
+    ]
+  },
+  {
+    "vid": "130437",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130215",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 8,
+    "flags": []
+  },
+  {
+    "vid": "130509",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130311",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 16,
+    "flags": []
+  },
+  {
+    "vid": "130287",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130515",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 4,
+    "flags": []
+  },
+  {
+    "vid": "130161",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130527",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130557",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130425",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130731",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130341",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130575",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130569",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130263",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130521",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130197",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130251",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 19,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130485",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130419",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130719",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130143",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130683",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130701",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130635",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 19,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130347",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130473",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 5,
+    "flags": []
+  },
+  {
+    "vid": "130671",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130479",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130647",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130461",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130167",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130353",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130299",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130149",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130359",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130281",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130449",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130695",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 16,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130617",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130497",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130641",
+    "round": 19,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130455",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 2,
+    "flags": []
+  },
+  {
+    "vid": "130713",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 7,
+    "flags": []
+  },
+  {
+    "vid": "130503",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130329",
+    "round": 19,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130167",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130497",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130257",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130563",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130281",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130581",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130263",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130707",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130485",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130491",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 13,
+    "flags": []
+  },
+  {
+    "vid": "130659",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130521",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130551",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 15,
+    "flags": []
+  },
+  {
+    "vid": "130647",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130407",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130599",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130275",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 11,
+    "flags": []
+  },
+  {
+    "vid": "130359",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130311",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 16,
+    "flags": []
+  },
+  {
+    "vid": "130701",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130221",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130509",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130713",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 7,
+    "flags": []
+  },
+  {
+    "vid": "130425",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130449",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130539",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130353",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130683",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130269",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130143",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130557",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130395",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 3,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130383",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130203",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130617",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130629",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130299",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130293",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130191",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130641",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130671",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 14,
+    "flags": []
+  },
+  {
+    "vid": "130689",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130401",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130233",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 9,
+    "flags": []
+  },
+  {
+    "vid": "130227",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130677",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130155",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 17,
+    "flags": []
+  },
+  {
+    "vid": "130569",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130437",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130467",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130443",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130239",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130413",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 12,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130515",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 4,
+    "flags": []
+  },
+  {
+    "vid": "130317",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130245",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130725",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130209",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130305",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130377",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130575",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 6,
+    "flags": []
+  },
+  {
+    "vid": "130371",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 10,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130179",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130731",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 1,
+    "flags": []
+  },
+  {
+    "vid": "130473",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 5,
+    "flags": []
+  },
+  {
+    "vid": "130587",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly",
+      "budget_anomaly"
+    ]
+  },
+  {
+    "vid": "130287",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130365",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130593",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 8,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130197",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130665",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130623",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130431",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 18,
+    "flags": [
+      "norm_anomaly",
+      "budget_anomaly"
+    ]
+  },
+  {
+    "vid": "130653",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 11,
+    "flags": []
+  },
+  {
+    "vid": "130419",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130149",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130389",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 0,
+    "flags": []
+  },
+  {
+    "vid": "130455",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 2,
+    "flags": []
+  },
+  {
+    "vid": "130185",
+    "round": 20,
+    "flagged": true,
+    "attack_type": 0,
+    "flags": [
+      "norm_anomaly"
+    ]
+  },
+  {
+    "vid": "130215",
+    "round": 20,
+    "flagged": false,
+    "attack_type": 8,
+    "flags": []
+  }
+]
