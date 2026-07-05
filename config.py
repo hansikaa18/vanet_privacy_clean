@@ -9,7 +9,7 @@ or a folder.
 
 # ── REQUIRED: which dataset to run on ────────────────────────────────────
 # Options: "veremi_extension", "mosaic_replay_bogus", "kaggle_maliciousnode"
-DATASET_NAME = "kaggle_maliciousnode"
+DATASET_NAME = "veremi_extension"
 
 # ── REQUIRED: path to the dataset for the selected DATASET_NAME ─────────
 #
@@ -22,7 +22,7 @@ DATASET_NAME = "kaggle_maliciousnode"
 #   kaggle_maliciousnode (single CSV — Kaggle "VANET-MaliciousNode Dataset"):
 #     r"C:\Users\hansi\Downloads\vanet_maliciousnode.csv"
 
-DATA_PATH = "/Users/hansikaaaggarwal/.cache/kagglehub/datasets/ziya07/vanet-maliciousnode-dataset/versions/1"
+DATA_PATH = "/Users/hansikaaaggarwal/.cache/kagglehub/datasets/ivarprudnikov/veremi-extension-data-1-21-gb/versions/1"
 
 
 # ── Output directory ──────────────────────────────────────────────────────────
