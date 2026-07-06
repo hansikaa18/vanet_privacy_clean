@@ -1,7 +1,8 @@
-# Secure ITS — DT-RBAC-FL-ADP vs Baselines
+cat > ~/Downloads/vanet_privacy_clean/README.md << 'EOF'
+# Secure ITS — DT-RBAC-FL-ADP
 
 DT-Enhanced Secure Federated Learning in VANET for smart city traffic management.
-Implements your full model + 3 baselines on the VeReMi Extension dataset.
+Implements the DT-RBAC-FL-ADP framework proposed in "Secure ITS for Future Cities" (Hansikaa Aggarwal, 2026).
 
 ---
 
@@ -10,36 +11,54 @@ Implements your full model + 3 baselines on the VeReMi Extension dataset.
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
+pip install kagglehub gdown
 ```
 
-### 2. Point to your VeReMi dataset
-## Dataset
-VeReMi Extension (Kamel et al., 2020)
-Download: https://data.mendeley.com/datasets/k62n4z9gdz/1
+### 2. Download a dataset
+```bash
+python3 download_datasets.py
+```
+Enter 1, 2, or 3 when prompted. It prints the exact `DATA_PATH` to paste into `config.py`.
 
-Open `config.py` and set `DATA_PATH` to your VeReMi folder:
-
+### 3. Set dataset in config.py
 ```python
-# Windows example:
-DATA_PATH = r"C:\Users\YourName\Downloads\veremi"
-
-# Mac / Linux example:
-DATA_PATH = "/home/yourname/datasets/veremi"
+DATASET_NAME = "veremi_extension"   # or "kaggle_maliciousnode"
+DATA_PATH    = "/path/printed/by/download_datasets.py"
 ```
 
-The script searches recursively, so any subfolder structure works.
-
-### 3. Run the model
+### 4. Run the model
 ```bash
-python federated_runner.py
+python3 federated_runner.py
 ```
 
-### 4. Generate charts
+### 5. Evaluate anomaly detection
 ```bash
-python plot_results.py
+python3 evaluate_anomaly.py
 ```
 
-Charts are saved to `results/`.
+### 6. Generate charts
+```bash
+python3 plot_results.py
+```
+
+Charts and metrics saved to `results/`.
+
+---
+
+## Supported Datasets
+
+| # | Dataset | How to get |
+|---|---------|------------|
+| 1 | VeReMi Extension (Kamel et al. 2020) | Auto-downloaded via `download_datasets.py` → option 1 |
+| 2 | VeReMi Original (2018) | Auto-downloaded via `download_datasets.py` → option 2 |
+| 3 | Kaggle VANET-MaliciousNode | Auto-downloaded via `download_datasets.py` → option 3 (requires free Kaggle account + API token) |
+
+To run on multiple datasets, re-run `federated_runner.py` after changing `config.py` and save results:
+```bash
+cp -r results/ results_veremi_extension/
+cp -r results/ results_veremi_original/
+cp -r results/ results_kaggle/
+```
 
 ---
 
